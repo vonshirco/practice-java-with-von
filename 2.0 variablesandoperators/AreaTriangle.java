@@ -1,7 +1,3 @@
-/*
- @author von
- */
-
 package udsm.variablesandoperators;
 
 public class AreaTriangle {
