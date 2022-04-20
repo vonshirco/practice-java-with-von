@@ -1,4 +1,3 @@
-
 package udsm.classesandobjects;
 //Circle.java: Contains both Circle class and its user class
 
