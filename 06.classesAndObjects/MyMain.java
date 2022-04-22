@@ -3,6 +3,7 @@ package udsm.classesandobjects;
 
 //Circle Class
 class Circle{
+    //Declaring Class Fields
     public double x,y; //centre of the circle
     public double r; //radius of circle
     
