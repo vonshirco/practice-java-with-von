@@ -24,7 +24,7 @@ public class MyMain {
         aCircle.y = 20;
         aCircle.r = 5;
         
-        //Invoking method
+        //Invoking/Calling methods
         double area = aCircle.area(); 
         double circumf = aCircle.circumference();
         
