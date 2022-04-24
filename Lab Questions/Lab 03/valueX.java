@@ -12,7 +12,7 @@ class valueClass{
 
 public class valueX {
     public static void main(String[] args){
-        //Creaning an Object
+        //Creating an Object
         valueClass myValue = new valueClass();
         
         //Calling method
