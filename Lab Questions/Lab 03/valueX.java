@@ -1,5 +1,5 @@
-/*Write a java program to display the value of x on the computer screen where 
- x = 46/6 + 5 % 7*/
+/* Write a java program to display the value of x on the computer screen where 
+ x = 46/6 + 5 % 7 */
 
 package udsm.classesandobjects;
  //Class
